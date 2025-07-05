@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-identity.vercel.app/api/banner?name=Aditya%20Bhate&tagline=Code%20Hard%20%7C%20Design%20Louder%20%7C%20Stay%20REBEL&theme=dark&glow=neon&font=urban" alt="Aditya Bhate Banner" />
+  <img src="./banner.png" alt="Aditya Bhate Banner" />
 </p>
 
 
