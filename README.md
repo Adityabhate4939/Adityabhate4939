@@ -1,21 +1,18 @@
-
-
-
 <h1 align="center">Yo 👋, I'm Aditya Bhate</h1>
-<h3 align="center">⚡ Front-End Rookie | 🧠 Creator | 👕 Street Coder | 🛠️ Builder of Badass Things</h3>
+<h3 align="center">⚡ Full-Stack Dev | Creator of REBEL 👕 | Building @STYXCORP 🧪</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=I+build+clean+web+stuff;;I+run+a+clothing+brand;I+code+like+it's+art;I+never+mess+with+designs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=Code+Loud%2C+Design+Hard.;Building+REBEL+Brand.;Working+at+STYXCORP.;I+write+clean+dark+code.;No+templates%2C+just+heat." alt="Typing SVG" />
 </p>
 
 ---
 
 ### ⚔️ WHO TF AM I?
-- 🧃 Just a 17 y/o kid who types fast & thinks faster  
-- 👨‍💻 Web Developer, UI Crafter, Dark Theme Addict  
-- 👕 Dropping heat with my streetwear brand – **REBEL**  
-- 🎯 Focus: Clean Code, Chaos-Free UI, & High Vibe Builds  
-- 🧩 Learning React, Next.js & Animation Flexes daily
+- 🧃 17 y/o, Dev on a mission  
+- 👕 Co-Founder of streetwear label [**REBEL**](https://joinrebel.in)  
+- 🛠️ Currently building tech @ [**StyxCorp**](https://styxcorp.in)
+- 🎯 Focus: Dark-mode UIs, brand-driven web, business moves  
+- 🧠 Learning Next.js, Framer Motion & advanced layouts
 
 ---
 
@@ -29,15 +26,14 @@
 
 ---
 
-### 🚀 PROJECTS WITH VIBES
-- 🧠 **Portfolio Site** – dark, minimal, animated flex  
-- 👕 **REBEL Drop Site** – brand-first, bold design  
-- 💥 **Insane Preloaders** – glitchy, hacker, brutalism  
-- 🎨 **UI Templates** – built to sell, built to slap
+### 🧃 CURRENTLY COOKING:
+- `🔥 Portfolio` – dark, animated, and built from scratch  
+- `👕 rebel-brand` – fashion x tech site with real energy  
+- `🧪 STYXCORP` – startup tools, systems & projects in stealth
 
 ---
 
-### 📈 VIBES ONLY STATS
+### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adityabhate4939&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Adityabhate4939&theme=tokyonight&hide_border=true" width="48%" />
@@ -45,18 +41,17 @@
 
 ---
 
-### 🔥 SKILLING UP ON
-- ⚛️ React + Next.js  
-- 🧙‍♂️ Framer Motion for animations  
-- 💸 Building digital products for $$$  
-- 🧵 Merch drops + branding site automation
+### 🧩 Pinned Projects (soon)
+- `🔥 Portfolio` – Personal site  
+- `👕 rebel-brand` – Clothing brand  
+- `🧪 STYXCORP` – Product dev (internal tools)
 
 ---
 
-### 🧃 CONNECT & VIBE
+### 📬 Connect with Me
 [![Instagram](https://img.shields.io/badge/-@adityabhate-purple?style=for-the-badge&logo=instagram)](https://instagram.com/adityabhate)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Adityabhate4939)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-grey?style=for-the-badge&logo=vercel)](https://adityabhate.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aditya-bhate)
 
 ---
 
@@ -66,4 +61,5 @@
 
 ---
 
-> 🗯️ *“Don’t chase trends. Build them.”* – Aditya Bhate
+> 🗯️ *“No templates. Just fire builds.”*  
+> — Aditya Bhate, REBEL × STYXCORP
