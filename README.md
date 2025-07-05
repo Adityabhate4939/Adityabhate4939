@@ -53,7 +53,7 @@
 ### 🧃 CONNECT & VIBE
 [![Instagram](https://img.shields.io/badge/-@adityabhate-purple?style=for-the-badge&logo=instagram)](https://instagram.com/adityabhate)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Adityabhate4939)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-grey?style=for-the-badge&logo=vercel)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-grey?style=for-the-badge&logo=vercel)](https://adityabhate.netlify.app/)
 
 ---
 
