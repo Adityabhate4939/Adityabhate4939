@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./banner.png" alt="Aditya Bhate Banner" width="850"/>
-</p>
 
 
 
