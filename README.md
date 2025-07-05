@@ -1,8 +1,14 @@
+<p align="center">
+  <img src="https://readme-identity.vercel.app/api/banner?name=Aditya%20Bhate&tagline=Code%20Hard%20%7C%20Design%20Louder%20%7C%20Stay%20REBEL&theme=dark&glow=neon&font=urban" alt="Aditya Bhate Banner" />
+</p>
+
+
+
 <h1 align="center">Yo 👋, I'm Aditya Bhate</h1>
 <h3 align="center">⚡ Front-End Rookie | 🧠 Creator | 👕 Street Coder | 🛠️ Builder of Badass Things</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=I+build+clean+web+stuff;I+make+dark+UI+pop;I+run+a+clothing+brand;I+code+like+it's+art;I+never+miss+with+designs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=I+build+clean+web+stuff;;I+run+a+clothing+brand;I+code+like+it's+art;I+never+mess+with+designs" alt="Typing SVG" />
 </p>
 
 ---
