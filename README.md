@@ -1,4 +1,4 @@
-<img width="80%" alt="Hello, I'm Aditya. I am an Entrepreneur!" src="/" style="max-width: 100%;">
+<img width="80%" alt="Hello, I'm Aditya." src="/Pfp.png" style="max-width:100%;">
 ### 👾 Aditya Bhate | `Creative Dev x Brand Co-founder`
 
 🚀 17 y/o building the future one repo at a time.  
